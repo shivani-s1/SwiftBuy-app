@@ -1,0 +1,11 @@
+com\profileService\model\Profile.class
+com\profileService\profileRepo\ProfileRepository.class
+com\profileService\profileService\ProfileService.class
+com\profileService\exception\ProfileNotFoundException.class
+com\profileService\exception\AlreadyExistsException.class
+com\profileService\ProfileServiceApplication.class
+com\profileService\exception\GlobalExceptionHandler.class
+com\profileService\exception\InvalidException.class
+com\profileService\profileService\ProfileServiceImpl.class
+com\profileService\client\MailClient.class
+com\profileService\profileController\ProfileController.class
